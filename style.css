@@ -1,0 +1,49 @@
+body {
+  background-color: #499cb570;
+  color: DarkSlateBlue;
+  font-family: 'ZCOOL XiaoWei', serif;
+  background-image:url(images/sakura.png);
+}
+
+  h1 {
+    color: purple;
+  }
+
+section {
+  background-color: pink;
+  color: blue;
+  font-family: helvetica, arial;
+}
+
+ul {
+  background-color: blue;
+  color: red;
+  font-family: verdana, arial;
+}
+{
+  font-size:100%;
+}
+
+ol {
+  Background-color: Purple;
+  color: white;
+  font-family: showcard gothic
+}
+
+h2 {
+  background-color: pink;
+  color: royalblue;
+}
+
+h3 {
+  background-color: purple;
+  color: coral;
+}
+
+<section>
+.column {
+  float: left;
+  boreder: 5px dashed red;
+  width: 50%;
+}
+</section>
